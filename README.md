@@ -17,5 +17,8 @@ The changes were added to the git staging area using the command line "git add .
 
 The command line "git commit -m "initial commit"" was used to commit the changes to git
 
-![Screenshot 2023-08-22 212422](https://github.com/FemiDare/phemmy_Git_Project_2/assets/140294606/5100cc3f-151e-4337-b69f-decc47cf46aa)
+Next I created a new branch using the command line "git checkout -b". The new branch name being "sub1". The flag "-b" is used to switch to the new branch as it is created.
 
+I used the command "git branch" to display the branches on the git repository. Note that the currently active branch is displayed in green with an asterisk preceding it.
+
+![Screenshot 2023-08-22 215028](https://github.com/FemiDare/phemmy_Git_Project_2/assets/140294606/d1ab5dbb-1c2b-4ef0-be6d-fac5824e302e)
