@@ -22,3 +22,14 @@ Next I created a new branch using the command line "git checkout -b". The new br
 I used the command "git branch" to display the branches on the git repository. Note that the currently active branch is displayed in green with an asterisk preceding it.
 
 ![Screenshot 2023-08-22 215028](https://github.com/FemiDare/phemmy_Git_Project_2/assets/140294606/d1ab5dbb-1c2b-4ef0-be6d-fac5824e302e)
+
+I created two new additional branches to the "main" branch namely "sub1" and "sub2"
+
+I proceeded to create a text file under branch "sub2" named "subfile2.txt". Then added it to the staging area and commited the changes.
+
+Using the SWITCH command, I switched to the branch "sub1" and took note of the contents of this branch.
+
+Using the MERGE command I proceeded to merge the "sub2" branch with the "sub1" branch and then verified that the text file created in sub2 branch has been sent to sub1 hence confirming the merger.
+
+![Screenshot 2023-09-07 193547](https://github.com/FemiDare/phemmy_Git_Project_2/assets/140294606/ac7b15f3-0dd6-4fe6-b1da-d2da105fc299)
+
