@@ -37,3 +37,15 @@ I then proceeded to delete the branch "sub2" using the "git branch -d" command.
 
 ![Screenshot 2023-09-07 195041](https://github.com/FemiDare/phemmy_Git_Project_2/assets/140294606/0dc9c282-d15b-4731-a336-9861d3822edc)
 
+I had already created a github account on the GUI and also created a repository named "git-project-1".
+
+Using the "git remote add origin [url link to git-project-1]" I added my remote repo from github to my local repo.
+
+I then "pushed" my local repo to my remote repo using the command "git push origin main".
+
+I also pushed the sub1 branch from my local repo to my remote repo using the command "git push origin sub1"
+
+![Screenshot 2023-09-07 201238](https://github.com/FemiDare/phemmy_Git_Project_2/assets/140294606/b185647e-65ce-4eda-b9ba-578218d62a92)
+
+![Screenshot 2023-09-07 201335](https://github.com/FemiDare/phemmy_Git_Project_2/assets/140294606/164f796c-9343-43c4-b4de-c5b5afc1eeb8)
+
